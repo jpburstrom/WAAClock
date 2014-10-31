@@ -7,8 +7,15 @@
     "type": "git",
     "url": "git@github.com:sebpiq/WAAClock.git"
   },
-  "keywords": [ "web audio api", "web audio", "audio", "sound", "music" ],
+  "keywords": [
+    "web audio api",
+    "web audio",
+    "audio",
+    "sound",
+    "music"
+  ],
   "dependencies": {
+    "eventemitter3": "^0.1.5",
     "underscore": "1.4.x"
   },
   "devDependencies": {
